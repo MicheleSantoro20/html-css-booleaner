@@ -1,9 +1,26 @@
+body {
+    font-size: 18px;
+}
 header {
     background-color: rgb(0, 102, 255);
     height: 180px;
     background-repeat: repeat;
     background-image: url(../img/pattern.png);
 }
+
+h1 {
+    font-size: 50px;
+}
+
+h3 {
+    color: gray;
+    font-size: 25px;
+}
+
+h3 span {
+    color: rgb(40, 191, 241);
+}
+
 #booleaner {
     background-image: url(../img/logo.svg);
     background-repeat: no-repeat;
@@ -11,17 +28,18 @@ header {
     height: 240px;
     width: 300px;
 }
-h1 {
-    font-size: 50px;
-}
-h3 {
-    color: gray;
-    font-size: 25px;
-}
-h3 span {
-    color: rgb(40, 191, 241);
-}
-#data_articolo {
+
+.intestazione {
     color: gray;
     line-height: 1px;
+}
+#Tim {
+    line-height: 1px;
+    font-size: 12px;
+}
+#giallo {
+    background-color: yellow;
+}
+.headtabella{
+    background-color: aqua;
 }
