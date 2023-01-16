@@ -34,6 +34,10 @@ h3 span {
     line-height: 1px;
 }
 
+.timbonus {
+    width: auto;
+    height: 300px;
+}
 #Tim {
     line-height: 1px;
     font-size: 12px;
@@ -53,7 +57,7 @@ table {
 }
 
 .celle_azzurre {
-    background-color: rgb(206, 234, 243);
+    background-color: rgb(177, 229, 247);
 }
 
 #consigliati_1 {
@@ -72,4 +76,8 @@ table {
     color: white;
     font-size: 25px;
     padding: 10px;
+}
+.bonus {
+    width: 50%;
+    margin: auto;
 }
