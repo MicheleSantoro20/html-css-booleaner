@@ -47,6 +47,7 @@ h3 span {
 #headtable{
     background-color: rgb(92, 211, 247);
     color: white;
+    text-align: left;
 }
 
 table {
