@@ -74,6 +74,8 @@ table {
     color: white;
     font-size: 25px;
     padding: 10px;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 ul {
     padding: 20px;
@@ -82,4 +84,5 @@ ul {
     color: white;
     font-size: 25px;
     margin-top: 5px;
+    font-weight: bold;
 }
