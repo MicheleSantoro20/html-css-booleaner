@@ -78,3 +78,8 @@ table {
 ul {
     padding: 20px;
 }
+.valori_immagini h3 {
+    color: white;
+    font-size: 25px;
+    margin-top: 5px;
+}
